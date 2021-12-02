@@ -1,13 +1,13 @@
 # **Rebeca's Markdown exercise**
 This document contains Rebeca's Markdown exercises. In it you will find the following topics:
-* [Hierarchy of Headings](#hierarchy)
-* [Emphasis](#emphasis)
-* [Blockquotes](#blockquotes)
-* [Lists](#lists)
-* [Code](#code)
-* [Tables](#tables)
-* [Links](#links)
-* [Images](#images)
+* [Hierarchy of Headings](#Hierarchy)
+* [Emphasis](#Emphasis)
+* [Blockquotes](#Blockquotes)
+* [Lists](#Lists)
+* [Code](#Code)
+* [Tables](#Tables)
+* [Links](#Links)
+* [Images](#Images)
  
 # **Hierarchy of Headings**
  
