@@ -1,26 +1,26 @@
-# **Rebeca's Markdown exercise**
+# Rebeca's Markdown exercise
 This document contains Rebeca's Markdown exercises. In it you will find the following topics:
-* [Hierarchy of Headings](#Hierarchy)
-* [Emphasis](#Emphasis)
-* [Blockquotes](#Blockquotes)
-* [Lists](#Lists)
-* [Code](#Code)
-* [Tables](#Tables)
-* [Links](#Links)
-* [Images](#Images)
+* [Hierarchy of Headings](#hierarchy-of-headings)
+* [Emphasis](#emphasis)
+* [Blockquotes](#blockquotes)
+* [Lists](#lists)
+* [Code](#code)
+* [Tables](#tables)
+* [Links](#links)
+* [Images](#images)
  
-# **Hierarchy of Headings**
+# Hierarchy of Headings
  
 With Markdown you can use different types of headings, according to the hierachy of your document. This is a cheat sheet to format your document with Markdown.
  
 > # h1 Heading
 > ## h2 Heading
->### h3 Heading
->#### h4 Heading
->##### h5 Heading
->###### h6 Heading
+> ### h3 Heading
+> #### h4 Heading
+> ##### h5 Heading
+> ###### h6 Heading
  
-# **Emphasis**
+# Emphasis
 With Markdown you can format your text to show emphasis. This is the syntax you should use:
  
 **This is bold text**
